@@ -1,0 +1,32 @@
+body {
+    background-color: none;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #aa609b;
+    border-width: 5px;
+    width: 2%;
+
+}
+
+a {
+    color: #aa609b;
+}
+
+html {
+    color: #1C3879;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    border-style: double;
+    border-color: black;
+    border-radius: 50% 5%;
+    border-width: 2mm;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
