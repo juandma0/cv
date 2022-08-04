@@ -44,13 +44,15 @@ a:hover {
 }
 
 hr {
-    width: 30px;
+    width: 70px;
     margin-top: 60px;
     margin-bottom: 60px;
     border-width: 10px;
     height: 10px;
     border-style: dotted;
     border-bottom: none;
+    border-left: none;
+    border-right: none;
     opacity: 50%;
 }
 
@@ -68,7 +70,7 @@ hr {
 }
 
 .top_container {
-
+    width: 100%;
     background-color: #ecfeff;
     padding-top: 5%;
 }
