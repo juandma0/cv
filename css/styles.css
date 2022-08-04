@@ -74,7 +74,7 @@ hr {
 }
 
 .top_cloud {
-    opacity: 40%;
+    opacity: 20%;
     position: absolute;
     right: 21%;
     top: 7%;
@@ -85,7 +85,7 @@ hr {
 .bottom_cloud {
     position: absolute;
     left: 20%;
-    opacity: 40%;
+    opacity: 20%;
     width: 10%;
 }
 
